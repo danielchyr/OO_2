@@ -7,4 +7,4 @@
 ###### 三資管B班
 
 ---
-[昀］（http://dict2.variants.moe.edu.tw/yitia/fra/fra01785.htm）
+［昀］(http://dict2.variants.moe.edu.tw/yitia/fra/fra01785.htm)
