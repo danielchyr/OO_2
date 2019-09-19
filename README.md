@@ -11,9 +11,9 @@
 |Chi|Yun|Han|
 |1|2|3|
 
-` `` python
+‵‵‵python
 print('hello world')
-` `` 
+
 ---
 [池](https://www.moedict.tw/%E6%B1%A0)
 [昀](https://www.moedict.tw/%E6%98%80)
