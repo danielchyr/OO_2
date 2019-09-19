@@ -10,6 +10,10 @@
 |ㄔˊ|ㄩㄣˊ|ㄏㄢˋ|
 |Chi|Yun|Han|
 |1|2|3|
+
+ˋˋˋpython
+print('hello world')
+ˋˋˋ
 ---
 [池](https://www.moedict.tw/%E6%B1%A0)
 [昀](https://www.moedict.tw/%E6%98%80)
