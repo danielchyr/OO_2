@@ -29,6 +29,7 @@
 
 >身為一個使用者，我希望有一個app來提醒我餐點做好了。
 8. 初步類別圖：
+
 i. 初步類別圖_使用案例圖1
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class1.png)
 ii. 初步類別圖_使用案例圖2
