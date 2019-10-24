@@ -11,7 +11,7 @@
 >非功能性
 * 效能:系統能隨時更新資料庫，並將訂單和取餐訊息即時推撥給店家和消費者。
 4. 畫出 使用案例圖 (use case diagram)： 
-![image](use case diagram.png)
+![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/use%20case%20diagram.png)
 5. 由上而下排出 使用案例的重要性：
 6. 寫出 其中的 至少三個使用案例：
 >早餐店老闆因為人潮太多忙不過來，但又不想請新的員工。
