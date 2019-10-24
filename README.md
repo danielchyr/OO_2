@@ -13,6 +13,9 @@
 4. 畫出 使用案例圖 (use case diagram)： 
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/use%20case%20diagram.png)
 5. 由上而下排出 使用案例的重要性：
+* 點單
+* 取餐
+* 瀏覽菜單
 6. 寫出 其中的 至少三個使用案例：
 >早餐店老闆因為人潮太多忙不過來，但又不想請新的員工。
 >小明去夜市吃晚餐，看到一家想吃的店卻有很多人在排隊。
@@ -22,9 +25,9 @@
 >身為一個使用者，我希望店家能按照確實訂單的順序出餐。
 >身為一個使用者，我希望有一個app來提醒我餐點做好了。
 8. 初步類別圖：
->初步類別圖_使用案例圖1
+i. 初步類別圖_使用案例圖1
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class1.png)
->初步類別圖_使用案例圖2
+ii. 初步類別圖_使用案例圖2
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class2.png)
 9. 系統循序圖：
 10. 強韌圖：
