@@ -43,3 +43,4 @@ ii. 初步類別圖_使用案例圖2
 
 11. 系統循序圖：
 
+![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/systemsequence.png)
