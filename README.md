@@ -22,6 +22,10 @@
 >身為一個使用者，我希望店家能按照確實訂單的順序出餐。
 >身為一個使用者，我希望有一個app來提醒我餐點做好了。
 8. 初步類別圖：
+>初步類別圖_使用案例圖1
+![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class1.png)
+>初步類別圖_使用案例圖2
+![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class2.png)
 9. 系統循序圖：
 10. 強韌圖：
 11. 循序圖：
