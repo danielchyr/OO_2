@@ -35,11 +35,11 @@ i. 初步類別圖_使用案例圖1
 ii. 初步類別圖_使用案例圖2
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class2.png)
 
-9. 系統循序圖：
+9. 循序圖：
 
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/Sequence%20Diagram1.png)
 
 10. 強韌圖：
 
-11. 循序圖：
+11. 系統循序圖：
 
