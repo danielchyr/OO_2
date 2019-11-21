@@ -4,7 +4,7 @@ protected double side_a;
 protected double side_b;
 protected double side_c;
 }
-public CTriangle(doublea,double b,double c)
+public CTriangle (doublea,double b,double c)
 {
 side_a=a;
 side_b=b;
