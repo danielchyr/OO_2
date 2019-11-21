@@ -38,6 +38,7 @@ III.製作菜單
 >身為一個使用者，我希望店家能按照確實訂單的順序出餐。
 
 >身為一個使用者，我希望有一個app來提醒我餐點做好了。
+
 8. 初步類別圖：
 
 i. 初步類別圖_使用案例圖1
@@ -46,6 +47,7 @@ ii. 初步類別圖_使用案例圖2
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class2.png)
 
 9. 類別圖:
+
 ![image](https://raw.githubusercontent.com/danielchyr/OO_2/master/class.png)
 
 10. 循序圖：
